@@ -150,3 +150,14 @@ div.serch_wrap > div:last-child { background:#ff912f }
 .part1DoctorList .doctorInfo p { padding:10px 0; border-bottom:1px solid #ddd; 
     font-weight:bold; margin-bottom:10px }
 
+    /* 가정의학과(part2.html) */
+.part2Content { background:#ddd }
+.part2DoctorList { padding:10px 5px }
+.part2DoctorList  ul li {
+    background:#fff; display:grid;  grid-template-columns: 80px auto;
+    padding:10px; margin:10px }
+.part2DoctorList  ul li img { width:100% }
+.part2DoctorList .doctorInfo { padding:10px }
+.part2DoctorList .doctorInfo strong { display:block; font-weight:bold }
+.part2DoctorList .doctorInfo p { padding:10px 0; border-bottom:1px solid #ddd; 
+    font-weight:bold; margin-bottom:10px }
